@@ -1,4 +1,4 @@
-# 🧠 EEG Motor Imagery Classification – Deep Learning Benchmark
+# EEG Motor Imagery Classification – Deep Learning Benchmark
 
 This project benchmarks deep learning models on the [PhysioNet EEG Motor Movement/Imagery Dataset](https://physionet.org/content/eegmmidb/1.0.0/) to classify left vs. right motor imagery using ERP signals.
 
